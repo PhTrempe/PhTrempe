@@ -31,6 +31,15 @@ Here are some ideas to get you started:
 ### Languages and Tools
 <!-- https://icons8.com/ -->
 <span>
+  <img alt="TensorFlow" title="TensorFlow" height="48px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img alt="PyTorch" title="PyTorch" height="48px" src="https://lh3.googleusercontent.com/SrO-TQ34yvl3KrL3MiTr4T3UqcsljMpRKBy3AvFHGZW37hJLoNYR-7vW6CkCwrr3IRkP4Ay6tJiC5oXEJNDT"/>
+  <img alt="PyTorch Lightning" title="PyTorch Lightning" height="48px" src="https://user-images.githubusercontent.com/21987697/134552334-0ee0004b-37f8-4a45-baed-eaf415216d3d.png"/>
+  <img alt="Cloud TPU" title="Cloud TPU" height="48px" src="https://cloud.google.com/tpu/docs/images/icons/natural_language.png"/>
+  <img alt="ML Engine" title="ML Engine" height="48px" src="https://miro.medium.com/max/256/1*kq32eimo6_e68PJt7gbQsA.png"/>
+  <img alt="SageMaker" title="SageMaker" height="48px" src="https://miro.medium.com/max/300/1*jbYRQa6__lU3EAzdkA_fJw.png"/>
+</span>
+<br/>
+<span>
   <img alt="Python" title="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img alt="Java" title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img alt="C#" title="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
@@ -42,6 +51,7 @@ Here are some ideas to get you started:
 </span>
 <br/>
 <span>
+  <img alt="Colaboratory" title="Colaboratory" height="48px" src="https://colab.research.google.com/img/colab_favicon_256px.png"/>
   <img alt="PyCharm" title="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
   <img alt="IntelliJ" title="IntelliJ" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
   <img alt="Visual Studio" title="Visual Studio" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
