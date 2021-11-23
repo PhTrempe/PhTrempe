@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋 I'm Philippe Trempe (PhTrempe on GitHub).
 
-### I'm a Machine Intelligence Research Engineer and Ph. D. student. 🧠🖥️
+### I'm a Machine Intelligence Research Engineer. 🧠🖥️
 - 🔭 I’m currently working on a variety of projects pertaining to AI and deep learning.
 - 🌱 I’m continuously learning to better bridge the gap between academia and industry.
 - 👯 I’m looking to collaborate on various public and private academic and industrial projects.
