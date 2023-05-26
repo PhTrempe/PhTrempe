@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ### Connect with me
 [<img align="left" alt="PhTrempe | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PhTrempe | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="PhTrempe | SoundCloud" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]
 <br/>
 
 ### Languages and Tools
@@ -37,24 +36,28 @@ Here are some ideas to get you started:
   <img alt="Cloud TPU" title="Cloud TPU" height="48px" src="https://cloud.google.com/tpu/docs/images/icons/natural_language.png"/>
   <img alt="ML Engine" title="ML Engine" height="48px" src="https://miro.medium.com/max/256/1*kq32eimo6_e68PJt7gbQsA.png"/>
   <img alt="SageMaker" title="SageMaker" height="48px" src="https://miro.medium.com/max/300/1*jbYRQa6__lU3EAzdkA_fJw.png"/>
+  <img alt="OpenAI GPT" title="OpenAI GPT" height="48px" src="https://img.icons8.com/?size=512&id=fO5yVwARGUEB&format=png"/>
 </span>
 <br/>
 <span>
   <img alt="Python" title="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img alt="Rust" title="Rust" height="48px" src="https://img.icons8.com/?size=512&id=XWesbnSd4AUa&format=png"/>
+  <img alt="Dart" title="Dart" height="48px" src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png"/>
   <img alt="Java" title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img alt="C#" title="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img alt="C++" title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img alt="C" title="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img alt="HTML5" title="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img alt="CSS3" title="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img alt="JavaScript" title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
+  <img alt="JavaScript" title="JavaScript" height="48px" src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png"/>
 </span>
 <br/>
 <span>
   <img alt="Colaboratory" title="Colaboratory" height="48px" src="https://colab.research.google.com/img/colab_favicon_256px.png"/>
   <img alt="PyCharm" title="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img alt="Webstorm" title="Webstorm" height="48px" src="https://img.icons8.com/?size=512&id=32sNCVhNAx9Y&format=png"/>
   <img alt="IntelliJ" title="IntelliJ" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-  <img alt="Visual Studio" title="Visual Studio" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+  <img alt="Visual Studio" title="Visual Studio" height="48px" src="https://img.icons8.com/?size=512&id=y7WGoWNuIWac&format=png"/>
   <img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img alt="Sublime Text" title="Sublime Text" src="https://img.icons8.com/color/48/000000/sublime-text.png"/>
 </span>
